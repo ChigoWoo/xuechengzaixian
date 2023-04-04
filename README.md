@@ -1,8 +1,4 @@
-# xuechengzaixian
-<<<<<<< HEAD
-just a demo about HTML CSS
-—— powered by chigo ——
+# 学成在线（xuechengzaixian）
 =======
 just a demo about HTML CSS </br>
 —— powered by chigo ——
->>>>>>> master
